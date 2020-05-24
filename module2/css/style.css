@@ -14,8 +14,7 @@ h1 {
 .text {
   background-color: grey;
   border: 1px solid red;
-  margin-right: 5px;
-  margin-left: 5px;
+  margin: 8px;
   position: relative;
   top:20px;
 }
