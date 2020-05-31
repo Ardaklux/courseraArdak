@@ -1,0 +1,15 @@
+.container-fluid{
+	background-color: yellow;
+}
+div#bs-example-navbar-collapse-1  {
+	text-align: center;
+	background-color: green;
+	color:red;
+}
+div#textcontent {
+	float: none;
+	height: 1000px;
+	background-color: blue;
+	color: red;
+	margin: auto;
+}
