@@ -22,9 +22,15 @@ h2 {
   float:right;
   border-left: 1px solid black;
   border-bottom: 1px solid black;
+<<<<<<< HEAD
   padding-right: 10px;
   padding-left: 5px
 }
+=======
+  width:20%;
+  font-size:1.1em;
+  color:white;
+>>>>>>> 522be1e3ed554526905ef9ca46eb8b6c83565ad9
 
 .wrapper {
   position: relative;
